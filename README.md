@@ -52,3 +52,14 @@ Full parameter notes are documented in [docs/parameters.md](docs/parameters.md).
 - Small dimensional changes, such as slot depth or cutout width, have an outsized effect on usability and should be tested early.
 - Fillets and chamfers need to be planned around interior corners, since tight geometry can cause feature failures until the underlying edges are prepared.
 - Building a complete part end to end, from sketch to exportable mesh, is an effective way to connect CAD theory with practical design decisions.
+
+## Tools
+
+- **Onshape** for parametric part modeling and export
+
+## Files
+
+| File | Description |
+|------|-------------|
+| [onshape_link.txt](onshape_link.txt) | Link to the Onshape document |
+| [exports/65DegreeCradle.stl](exports/65DegreeCradle.stl) | Exported mesh for 3D printing |
